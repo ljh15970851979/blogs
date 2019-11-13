@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41169692-d009-46b9-b3ec-53fe2a6a85b9" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/themes/spfk/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/spfk/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/spfk/source/img/alipay.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/spfk/source/img/alipay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/spfk/source/img/alipayimg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/spfk/source/img/alipayimg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/spfk/source/img/head.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/spfk/source/img/head.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/spfk/source/img/wechatimg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/spfk/source/img/wechatimg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/spfk/source/img/weixin.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/spfk/source/img/weixin.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="myblog" />
+  </component>
+  <component name="ProjectId" id="1Q5mvWUwc4udFx7cHW6Gb0UfiTi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41169692-d009-46b9-b3ec-53fe2a6a85b9" name="默认的" comment="" />
+      <created>1567069061349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567069061349</updated>
+      <workItem from="1567069063273" duration="1893000" />
+      <workItem from="1567124972847" duration="2135000" />
+      <workItem from="1573176449738" duration="1254000" />
+      <workItem from="1573613022654" duration="1946000" />
+      <workItem from="1573624758940" duration="328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
