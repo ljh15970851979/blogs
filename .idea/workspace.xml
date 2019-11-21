@@ -22,7 +22,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="G:/ljhWork/xly-admin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,7 +59,11 @@
       <workItem from="1567124972847" duration="2135000" />
       <workItem from="1573176449738" duration="1254000" />
       <workItem from="1573613022654" duration="1946000" />
-      <workItem from="1573624758940" duration="3763000" />
+      <workItem from="1573624758940" duration="4367000" />
+      <workItem from="1574151991497" duration="1693000" />
+      <workItem from="1574210204953" duration="594000" />
+      <workItem from="1574299980795" duration="1106000" />
+      <workItem from="1574319972846" duration="1076000" />
     </task>
     <servers />
   </component>
